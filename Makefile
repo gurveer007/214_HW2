@@ -6,6 +6,5 @@ CFLAGS = -g -fsanitize=address
 
 all: $(OUTPUT)
 
-clean:
-		rm -f $(OUTPUT) 
+
 		
